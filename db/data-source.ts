@@ -8,7 +8,7 @@ export const dataSourceOptions: DataSourceOptions={
     // host: 'localhost',
     // port: 5432,
     // username: 'postgres',
-    // password: '08081975maxim',
+    // password: 'password',
     // database: 'bazarapi',
     // synchronize: false,
     // logging: false,
